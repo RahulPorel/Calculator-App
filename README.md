@@ -13,7 +13,7 @@ Calculator App let you calculate standard maths problem with some extra features
 
 # Live Demo 👁️
 
-https://rahulporel.github.io/Visiting-Card-Builder/
+https://rahulporel.github.io/Calculator-App/
 
 # Snapshot of Calculator App
 
